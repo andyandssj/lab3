@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: John Smith
+title: 孙树杰
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+author: 孙树杰
+logo: /static/img/main.png
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+about: 烟台大学机电汽车工程学院 讲师
+
+baseurl: "lab3"
+url: ""
 
 allowsearch: true
 
