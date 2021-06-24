@@ -47,6 +47,8 @@ paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
 # Build settings
 theme: minima
 plugins:
